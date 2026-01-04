@@ -5,18 +5,20 @@
 protocolcover documents how blockchain protocol risks can be classified,
 audited, and translated into enforceable coverage triggers.
 
-This repository hosts the public specification layer.
+**This repository hosts the public, non-commercial specification layer
+backing https://protocolcover.com (canonical).**
 
 ---
 
 ## Purpose
 
-Most protocol insurance fails because:
+Many protocol-level coverage failures originate from structural ambiguity:
 - risk categories are vague
 - audits are not mapped to coverage logic
 - failure modes are undefined
 
-protocolcover treats protocol risk as **infrastructure risk**.
+protocolcover treats protocol risk as **infrastructure risk** —
+auditable, classifiable, and referenceable.
 
 ---
 
@@ -24,7 +26,7 @@ protocolcover treats protocol risk as **infrastructure risk**.
 
 - Smart-contract risk taxonomy
 - Audit evidence requirements
-- Coverage triggers & exclusions
+- Coverage trigger & exclusion logic
 - On-chain vs. off-chain accountability
 
 ---
@@ -32,17 +34,27 @@ protocolcover treats protocol risk as **infrastructure risk**.
 ## What this is not
 
 - Not an insurance product
+- Not an insurance provider
 - Not a protocol endorsement
-- Not financial advice
+- Not financial or investment advice
 
 ---
 
 ## Architecture
 
-- Static reference
+- Static reference specification
 - GitHub Pages
 - No backend
 - No data collection
+- No user interaction
+
+---
+
+## Disambiguation
+
+protocolcover is an independent reference project.
+- Not affiliated with OpenCover (opencover.com)
+- Not related to the former Cover Protocol project (discontinued after 2021)
 
 ---
 
@@ -55,5 +67,5 @@ Low-frequency updates by design
 
 ## License
 
-Provided as-is for reference and discussion.
+Provided as-is for reference and discussion.  
 No warranties.
