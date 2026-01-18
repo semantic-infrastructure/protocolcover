@@ -1,30 +1,30 @@
 # Sources
 
 ## Purpose
-This sources page documents the primary reference materials underpinning the protocolcover specification.
-All listed materials are used exclusively for classification, auditability, and boundary definition of protocol-level risk and coverage logic.
+This page lists the authoritative references used to classify, audit, and operationalize protocol-level risk and coverage logic.
+The focus is on auditable risk categories, evidence requirements, and liability boundaries.
 This page is reference-only and non-commercial.
 
 ## Source hierarchy
-1. Primary sources: technical standards, regulatory texts, formal audit frameworks
-2. Secondary sources: institutional reports and neutral industry research
-3. Excluded sources: opinion pieces, marketing content, product documentation
+1. Primary sources: risk, audit, and assurance standards
+2. Secondary sources: supervisory and control frameworks
+3. Excluded sources: insurance products, commercial offerings, legal advice
 
 ## Curated sources
-- International Organization for Standardization (ISO)  
-  https://www.iso.org/standards.html
+- International Organization for Standardization (ISO) — ISO 31000 Risk Management
+  https://www.iso.org/iso-31000-risk-management.html
 
-- National Institute of Standards and Technology (NIST)  
-  https://www.nist.gov/cyberframework
+- International Organization for Standardization (ISO) — ISO/IEC 27001 Information Security Management
+  https://www.iso.org/isoiec-27001-information-security.html
 
-- Ethereum Foundation — protocol specifications  
-  https://ethereum.org/en/developers/docs/
+- National Institute of Standards and Technology (NIST) — Risk Management Framework (SP 800-37)
+  https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final
 
-- OWASP — smart contract and application risk references  
+- OWASP — Smart Contract Top 10
   https://owasp.org/www-project-smart-contract-top-10/
 
-- European Insurance and Occupational Pensions Authority (EIOPA)  
-  https://www.eiopa.europa.eu/document-library_en
+- European Union Agency for Cybersecurity (ENISA) — Security Framework for Trust Service Providers
+  https://www.enisa.europa.eu/publications/security-framework-for-trust-providers
 
 ## Update policy
 Low-frequency updates by design.  
