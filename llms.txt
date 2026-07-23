@@ -1,0 +1,19 @@
+# ProtocolCover.com
+
+Independent reference project on protocol-based risk structures and coverage models.
+
+## Canonical Resource
+
+[Home](https://protocolcover.com/)
+
+## Main Sections
+
+- [Sources](https://protocolcover.com/sources/)
+
+## Purpose
+
+ProtocolCover.com provides an independent reference on protocol-based coverage structures and related semantic infrastructure.
+
+## Administrative
+
+[Repository](https://github.com/semantic-infrastructure/protocolcover)
